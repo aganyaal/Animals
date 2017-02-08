@@ -1,0 +1,50 @@
+.heading{
+  font-style: italic;
+  text-align: center;
+}
+body{
+  background-color: black;
+  color: silver;
+}
+.h3{
+  color: gold;
+  font-style: italic;
+  text-align: center;
+}
+.h4{
+  color: white;
+  width: 200%;
+}
+.sprinkles{
+  float: left;
+    width: 32%;
+  }
+.dogs{
+  display: inline-block;
+  width:32%;
+  border-color: black;
+  margin-left: 2%;
+  margin-right: 2%
+}
+.h5{
+  color: white;
+  width: 200%;
+}
+.h6{
+  color: white;
+  width: 200%;
+}
+.panda{
+  float: right;
+  width: 32%
+}
+.main{
+  margin: auto;
+  width: 70%;
+}
+img {
+  width: 200px;
+}
+.txt{
+  text-align: center;
+}
